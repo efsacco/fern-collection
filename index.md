@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: moca
-  pid: obj10
+  pid: moca_02
   y: 25%
   height: '500px'
 ---

@@ -20,8 +20,8 @@
 
 title:            'Moca'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://github.io/efsacco/fern-collection'
+baseurl:          '/fern-collection'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 

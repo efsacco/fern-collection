@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: moca
   pid: moca_02
-  y: 25%
+  y: 30%
   height: '500px'
 ---
 
